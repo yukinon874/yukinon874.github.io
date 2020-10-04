@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yuki Nakamura</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <description>Yuki Nakamura</description>
+    <title>高橋諒 | Yuki Nakamura</title>
+    <link>/author/%E9%AB%98%E6%A9%8B%E8%AB%92/</link>
+      <atom:link href="/author/%E9%AB%98%E6%A9%8B%E8%AB%92/index.xml" rel="self" type="application/rss+xml" />
+    <description>高橋諒</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 04 Oct 2020 23:23:33 +0900</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Yuki Nakamura</title>
-      <link>/</link>
+      <title>高橋諒</title>
+      <link>/author/%E9%AB%98%E6%A9%8B%E8%AB%92/</link>
     </image>
     
     <item>
