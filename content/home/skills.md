@@ -14,17 +14,28 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
-[[feature]]
-  icon = "python"
-  icon_pack = "fab"
-  name = "Python"
-  description = ""
-  
+#skills = ["skill", "url", "url-name"]
+
 [[feature]]
   icon = ""
-  icon_pack = ""
-  name = "C++"
+  icon_pack = "fab"
+  name = "Programming Languages"
   description = ""
+  skills = [["Python", "", ""], ["C++", "", ""], ["Rust", "", ""]]
+
+[[feature]]
+  icon = ""
+  icon_pack = "fab"
+  name = "Competitive Programming"
+  description = ""
+  skills = [["AtCoder Blue", "https://atcoder.jp/users/Yukly", "Yukly"], ["Codeforces Expert", "http://codeforces.com/profile/Yukly", "Yukly"]]
+  
+  
+#[[feature]]
+#  icon = ""
+#  icon_pack = ""
+#  name = "C++"
+#  description = ""
 
 
 # Uncomment to use emoji icons.

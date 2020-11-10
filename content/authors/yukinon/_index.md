@@ -13,11 +13,15 @@ superuser: true
 role: 4th year undergraduate student in Tohoku University
 # Organizations/Affiliations
 organizations:
+- name: Tohoku University
+  url: "https://www.tohoku.ac.jp/japanese/"
+
 - name: Tohoku NLP Lab
   url: "https://www.nlp.ecei.tohoku.ac.jp/"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
+
 
 interests:
 - Machine Learning
@@ -60,4 +64,4 @@ user_groups:
 - Visitors
 ---
 
-
+I'm an undergraduate student at Tohoku University.

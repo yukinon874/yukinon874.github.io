@@ -20,15 +20,15 @@ date_format = "Jan 2006"
 
 
 
-[[item]]
-  organization = "Aobayama_dropout"
-  organization_url = ""
-  title = "ACM-ICPC 2018 Asia Yokohama Regional 国内予選 40位"
-  url = ""
-  certificate_url = "https://icpc.iisf.or.jp/2018-yokohama/1st-round-result/"
-  date_start = "2018-07-06"
-  date_end = ""
-  description = ""
+#[[item]]
+#  organization = "Aobayama_dropout"
+#  organization_url = ""
+#  title = "ACM-ICPC 2018 Asia Yokohama Regional 国内予選 40位"
+#  url = ""
+#  certificate_url = "https://icpc.iisf.or.jp/2018-yokohama/1st-round-result/"
+#  date_start = "2018-07-06"
+#  date_end = ""
+#  description = ""
 
 [[item]]
   organization = "Aobayama_dropout"
@@ -74,7 +74,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Aobayama_dropout"
   organization_url = ""
-  title = "ACM-ICPC 2020 Asia Yokohama Regional 13位"
+  title = "ACM-ICPC 2020 Asia Yokohama Regional 国内予選 13位"
   url = ""
   certificate_url = "https://icpc.iisf.or.jp/2020-yokohama/domestic_result/"
   date_start = "2020-11-06"
