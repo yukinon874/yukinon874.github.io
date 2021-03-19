@@ -5,12 +5,20 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>ゆきのんのぶろぐ</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 04 Oct 2020 23:23:33 +0900</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 19 Mar 2021 18:29:49 +0900</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>ゆきのんのぶろぐ</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>単語埋め込みの決定的縮約</title>
+      <link>/publication/nlp2021/</link>
+      <pubDate>Fri, 19 Mar 2021 18:29:49 +0900</pubDate>
+      <guid>/publication/nlp2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>決定的アルゴリズムによる単語分散表現の離散符号化</title>

@@ -81,4 +81,33 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
 
+[[item]]
+  organization = "Aobayama_dropout"
+  organization_url = ""
+  title = "ACM-ICPC 2020 Asia Yokohama Regional 10位"
+  url = ""
+  certificate_url = "https://icpc.global/regionals/finder/Yokohama-2020/standings"
+  date_start = "2021-03-17"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "「単語埋め込みの決定的縮約」仲村祐希・鈴木潤・高橋諒・乾健太郎"
+  organization_url = ""
+  title = "言語処理学会 第27回年次大会 優秀賞 8/361"
+  url = ""
+  certificate_url = ""
+  date_start = "2021-03-18"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "「単語埋め込みの決定的縮約」仲村祐希・鈴木潤・高橋諒・乾健太郎"
+  organization_url = ""
+  title = "言語処理学会 第27回年次大会 デンソーアイティーラボラトリ賞"
+  url = ""
+  certificate_url = ""
+  date_start = "2021-03-18"
+  date_end = ""
+  description = ""
 +++

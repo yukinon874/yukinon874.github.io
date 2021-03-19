@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "決定的アルゴリズムによる単語分散表現の離散符号化"
+title: "単語埋め込みの決定的縮約"
 authors: ["仲村祐希", "鈴木潤", "高橋諒", "乾健太郎"]
-date: 2020-10-04T23:23:33+09:00
+date: 2021-03-19T18:29:49+09:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-10-04T23:23:33+09:00
+publishDate: 2021-03-19T18:29:49+09:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,8 +16,8 @@ publishDate: 2020-10-04T23:23:33+09:00
 publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: "NLP若手の会 第15回シンポジウム"
-publication_short: "YANS2020"
+publication: "言語処理学会 第27回年次大会"
+publication_short: "NLP2021"
 
 abstract: ""
 
