@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: 4th year undergraduate student in Tohoku University
+role: first year master's student in Tohoku University
 # Organizations/Affiliations
 organizations:
 - name: Tohoku University
@@ -32,7 +32,10 @@ education:
   courses:
   - course: Bachelor of Engineering
     institution: Tohoku University
-    year: 2017 - 
+    year: 2017 - 2020
+  - course: Master of Information Science
+    institution: Tohoku University
+    year: 2021 -
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -64,4 +67,4 @@ user_groups:
 - Visitors
 ---
 
-I'm an undergraduate student at Tohoku University.
+I'm a master's student at Tohoku University.
