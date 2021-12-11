@@ -13,7 +13,7 @@ publishDate: 2021-03-19T18:29:49+09:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "言語処理学会 第27回年次大会"
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://www.anlp.jp/proceedings/annual_meeting/2021/pdf_dir/A7-3.pdf
 url_code:
 url_dataset:
 url_poster:

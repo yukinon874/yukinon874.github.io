@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/publication-type/0/</loc>
+    <loc>/publication-type/1/</loc>
     <lastmod>2021-03-19T18:29:49+09:00</lastmod>
   </url>
   
@@ -50,6 +50,11 @@
   <url>
     <loc>/author/%E9%AB%98%E6%A9%8B%E8%AB%92/</loc>
     <lastmod>2021-03-19T18:29:49+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/0/</loc>
+    <lastmod>2020-10-04T23:23:33+09:00</lastmod>
   </url>
   
   <url>

@@ -110,4 +110,14 @@ date_format = "Jan 2006"
   date_start = "2021-03-18"
   date_end = ""
   description = ""
+
+[[item]]
+  organization = "Aobayama_dropout"
+  organization_url = ""
+  title = "ACM-ICPC 2021 Asia Yokohama Regional 国内予選 8位"
+  url = "https://icpc.iisf.or.jp/2021-yokohama/standings/"
+  certificate_url = ""
+  date_start = "2021-11-05"
+  date_end = ""
+  description = ""
 +++
