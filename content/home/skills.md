@@ -21,7 +21,7 @@ subtitle = ""
   icon_pack = "fab"
   name = "Programming Languages"
   description = ""
-  skills = [["Python", "", "fluent"], ["C++", "", "fluent"], ["Rust", "", ""]]
+  skills = [["Python", "", "fluent"], ["C++", "", "fluent"]]
 
 [[feature]]
   icon = ""

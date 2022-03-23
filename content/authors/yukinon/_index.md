@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: first year master's student in Tohoku University
+role: First year master's student in Tohoku University
 # Organizations/Affiliations
 organizations:
 - name: Tohoku University

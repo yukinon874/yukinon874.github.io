@@ -120,4 +120,14 @@ date_format = "Jan 2006"
   date_start = "2021-11-05"
   date_end = ""
   description = ""
+
+[[item]]
+  organization = "Aobayama_dropout"
+  organization_url = ""
+  title = "ACM-ICPC 2021 Asia Yokohama Regional 8位"
+  url = "https://icpcsec.firebaseapp.com/standings/"
+  certificate_url = ""
+  date_start = "2022-03-16"
+  date_end = ""
+  description = ""
 +++
