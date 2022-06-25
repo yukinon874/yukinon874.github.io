@@ -99,7 +99,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2021-03-18"
   date_end = ""
-  description = ""
+  description = "上位8/361県"
 
 [[item]]
   organization = "「単語埋め込みの決定的縮約」仲村祐希・鈴木潤・高橋諒・乾健太郎"
