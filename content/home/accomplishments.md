@@ -94,12 +94,12 @@ date_format = "Jan 2006"
 [[item]]
   organization = "「単語埋め込みの決定的縮約」仲村祐希・鈴木潤・高橋諒・乾健太郎"
   organization_url = ""
-  title = "言語処理学会 第27回年次大会 優秀賞"
+  title = "言語処理学会 第27回年次大会 優秀賞 (上位8/361件)"
   url = "https://www.anlp.jp/nlp2021/award.html"
   certificate_url = ""
   date_start = "2021-03-18"
   date_end = ""
-  description = "上位8/361県"
+  description = ""
 
 [[item]]
   organization = "「単語埋め込みの決定的縮約」仲村祐希・鈴木潤・高橋諒・乾健太郎"
