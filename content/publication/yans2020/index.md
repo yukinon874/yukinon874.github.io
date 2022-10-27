@@ -3,11 +3,11 @@
 
 title: "決定的アルゴリズムによる単語分散表現の離散符号化"
 authors: ["仲村祐希", "鈴木潤", "高橋諒", "乾健太郎"]
-date: 2020-10-04T23:23:33+09:00
+date: 2020-09-23T23:23:33+09:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-10-04T23:23:33+09:00
+publishDate: 2020-09-23T23:23:33+09:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
