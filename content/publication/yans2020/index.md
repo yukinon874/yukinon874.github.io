@@ -41,7 +41,7 @@ url_code:
 url_dataset:
 url_poster:
 url_project:
-url_slides:https://github.com/yukinon874/yukinon874.github.io/blob/master/content/publication/yans2020/YANS2020_slide.pdf
+url_slides: "https://github.com/yukinon874/yukinon874.github.io/blob/master/content/publication/yans2020/YANS2020_slide.pdf"
 url_source:
 url_video:
 
