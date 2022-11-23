@@ -41,7 +41,7 @@ url_code:
 url_dataset:
 url_poster:
 url_project:
-url_slides:
+url_slides: https://github.com/yukinon874/yukinon874.github.io/blob/master/content/publication/nlp2021/NLP2021_slide.pdf
 url_source:
 url_video:
 
