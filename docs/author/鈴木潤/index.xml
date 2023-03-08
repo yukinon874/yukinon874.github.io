@@ -5,12 +5,20 @@
     <link>/author/%E9%88%B4%E6%9C%A8%E6%BD%A4/</link>
       <atom:link href="/author/%E9%88%B4%E6%9C%A8%E6%BD%A4/index.xml" rel="self" type="application/rss+xml" />
     <description>鈴木潤</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 19 Mar 2021 18:29:49 +0900</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 13 Mar 2023 11:30:00 +1300</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>鈴木潤</title>
       <link>/author/%E9%88%B4%E6%9C%A8%E6%BD%A4/</link>
     </image>
+    
+    <item>
+      <title>事前学習モデルを活用したEnd-to-end型動画キーフレーム物語生成法</title>
+      <link>/publication/nlp2023_0/</link>
+      <pubDate>Mon, 13 Mar 2023 11:30:00 +1300</pubDate>
+      <guid>/publication/nlp2023_0/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>単語埋め込みの決定的縮約</title>

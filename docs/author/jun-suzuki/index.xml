@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jun Suzuki | ゆきのんのぶろぐ</title>
+    <link>/author/jun-suzuki/</link>
+      <atom:link href="/author/jun-suzuki/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jun Suzuki</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Jun Suzuki</title>
+      <link>/author/jun-suzuki/</link>
+    </image>
+    
+    <item>
+      <title>Prompt Sensitivity of Language Model for Solving Programming Problems</title>
+      <link>/publication/somet2022/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/somet2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
