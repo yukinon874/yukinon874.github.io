@@ -3,11 +3,11 @@
 
 title: "柔らかいジャンプ付き編集距離に向けて"
 authors: ["亀井遼平", "横井祥", "仲村祐希", "渡辺太郎", "乾健太郎"]
-date: 2023-03-19T18:00+19:30
+date: 2023-03-14T18:30:00+09:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-03-19T18:29:49+09:00
+publishDate: 2023-01-15T18:29:49+09:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

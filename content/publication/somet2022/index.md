@@ -3,17 +3,17 @@
 
 title: "Prompt Sensitivity of Language Model for Solving Programming Problems"
 authors: ["Atsushi Shirafuji", "Takumi Ito", "Makoto Morishita", "Yuki Nakamura", "Yusuke Oda", "Jun Suzuki", "Yutaka Watanobe"]
-date: 2022-09-19T00:00+00:00
+date: 2022-09-19T01:00:00+00:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2022-09-19T00:00+00:00
+publishDate: 2022-09-19T00:00:00+00:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "The 21st International Conference on Intelligent Software Methodologies, Tools, and Techniques"
@@ -42,7 +42,7 @@ url_dataset:
 url_poster:
 url_project:
 url_slides:
-url_source:
+url_source: 
 url_video:
 
 # Featured image

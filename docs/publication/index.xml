@@ -5,7 +5,7 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 13 Mar 2023 11:30:00 +1300</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 14 Mar 2023 18:30:00 +0900</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>柔らかいジャンプ付き編集距離に向けて</title>
+      <link>/publication/nlp2023_1/</link>
+      <pubDate>Tue, 14 Mar 2023 18:30:00 +0900</pubDate>
+      <guid>/publication/nlp2023_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>事前学習モデルを活用したEnd-to-end型動画キーフレーム物語生成法</title>
       <link>/publication/nlp2023_0/</link>
-      <pubDate>Mon, 13 Mar 2023 11:30:00 +1300</pubDate>
+      <pubDate>Tue, 14 Mar 2023 11:30:00 +0900</pubDate>
       <guid>/publication/nlp2023_0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prompt Sensitivity of Language Model for Solving Programming Problems</title>
+      <link>/publication/somet2022/</link>
+      <pubDate>Mon, 19 Sep 2022 01:00:00 +0000</pubDate>
+      <guid>/publication/somet2022/</guid>
       <description></description>
     </item>
     
@@ -29,26 +45,10 @@
     </item>
     
     <item>
-      <title>柔らかいジャンプ付き編集距離に向けて</title>
-      <link>/publication/nlp2023_1/</link>
-      <pubDate>Fri, 19 Mar 2021 18:29:49 +0900</pubDate>
-      <guid>/publication/nlp2023_1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>決定的アルゴリズムによる単語分散表現の離散符号化</title>
       <link>/publication/yans2020/</link>
       <pubDate>Wed, 23 Sep 2020 23:23:33 +0900</pubDate>
       <guid>/publication/yans2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Prompt Sensitivity of Language Model for Solving Programming Problems</title>
-      <link>/publication/somet2022/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/publication/somet2022/</guid>
       <description></description>
     </item>
     

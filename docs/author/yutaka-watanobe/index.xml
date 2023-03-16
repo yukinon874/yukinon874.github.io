@@ -5,7 +5,7 @@
     <link>/author/yutaka-watanobe/</link>
       <atom:link href="/author/yutaka-watanobe/index.xml" rel="self" type="application/rss+xml" />
     <description>Yutaka Watanobe</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 19 Sep 2022 01:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Yutaka Watanobe</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Prompt Sensitivity of Language Model for Solving Programming Problems</title>
       <link>/publication/somet2022/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 19 Sep 2022 01:00:00 +0000</pubDate>
       <guid>/publication/somet2022/</guid>
       <description></description>
     </item>

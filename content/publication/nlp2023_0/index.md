@@ -3,11 +3,11 @@
 
 title: "事前学習モデルを活用したEnd-to-end型動画キーフレーム物語生成法"
 authors: ["仲村祐希", "工藤慧音", "鈴木潤", "清水伸幸"]
-date: 2023-03-13T11:30:00+13:00
+date: 2023-03-14T11:30:00+09:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-03-19T18:29:49+09:00
+publishDate: 2023-01-15T18:29:49+09:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
