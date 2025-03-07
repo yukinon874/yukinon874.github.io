@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Takumi Ito | ゆきのんのぶろぐ</title>
-    <link>/author/takumi-ito/</link>
-      <atom:link href="/author/takumi-ito/index.xml" rel="self" type="application/rss+xml" />
-    <description>Takumi Ito</description>
+    <title>Kentaro Inui | ゆきのんのぶろぐ</title>
+    <link>/author/kentaro-inui/</link>
+      <atom:link href="/author/kentaro-inui/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kentaro Inui</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 27 Feb 2025 11:30:00 +0900</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Takumi Ito</title>
-      <link>/author/takumi-ito/</link>
+      <title>Kentaro Inui</title>
+      <link>/author/kentaro-inui/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>/publication/ieee_access/</link>
       <pubDate>Thu, 27 Feb 2025 11:30:00 +0900</pubDate>
       <guid>/publication/ieee_access/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Prompt Sensitivity of Language Model for Solving Programming Problems</title>
-      <link>/publication/somet2022/</link>
-      <pubDate>Mon, 19 Sep 2022 01:00:00 +0000</pubDate>
-      <guid>/publication/somet2022/</guid>
       <description></description>
     </item>
     

@@ -37,12 +37,12 @@ featured: false
 #   icon: twitter
 
 url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10906563
-url_code:
+url_code: https://github.com/cl-tohoku/DetComp
 url_dataset:
 url_poster:
 url_project:
 url_slides: 
-url_source: https://github.com/cl-tohoku/DetComp
+url_source: 
 url_video:
 
 # Featured image

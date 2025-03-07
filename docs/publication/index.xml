@@ -5,12 +5,20 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 14 Mar 2023 18:30:00 +0900</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 27 Feb 2025 11:30:00 +0900</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>Deterministic Compression of Word Embeddings</title>
+      <link>/publication/ieee_access/</link>
+      <pubDate>Thu, 27 Feb 2025 11:30:00 +0900</pubDate>
+      <guid>/publication/ieee_access/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>柔らかいジャンプ付き編集距離に向けて</title>
