@@ -10,13 +10,16 @@ authors:
 superuser: true
 
 # Role/position
-role: First year master's student in Tohoku University
+role: NLP Engineer
 # Organizations/Affiliations
 organizations:
+- name: LY Corp.
+  url: https://www.lycorp.co.jp/en/
+
 - name: Tohoku University
   url: "https://www.tohoku.ac.jp/japanese/"
 
-- name: Tohoku NLP Lab
+- name: Tohoku NLP GROUP
   url: "https://www.nlp.ecei.tohoku.ac.jp/"
 
 # Short bio (displayed in user profile at end of posts)
@@ -32,10 +35,10 @@ education:
   courses:
   - course: Bachelor of Engineering
     institution: Tohoku University
-    year: 2017 - 2020
+    year: 2017 - 2021
   - course: Master of Information Science
     institution: Tohoku University
-    year: 2021 -
+    year: 2021 - 2023
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -67,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-I'm a master's student at Tohoku University.
+I'm an NLP Engineer working at LY Corporation.
